@@ -1,9 +1,11 @@
 ### Hi there 👋
 👋 Hi. I’m Elias
 
-👀 I’m interested in analysis of data and it's related projects 
+👀 I’m interested in analysis of data and it's related projects with excel, power BI and SQL 
 
-🌱Mathematics is amazing especially when it is visualisable
+🌱 Mathematics is amazing especially when it is visualisable
+
+😄 learning has no border
 
 
 
