@@ -7,7 +7,7 @@
 
 😄 learning has no border
 
-📫 My email address is elyas.sadeghi@hotmail.com
+📫 My email address is elias.sadeghi@hotmail.com
 
 <!--
 **FreeMan-join/FreeMan-join** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
