@@ -1,7 +1,7 @@
 ### Hi there 👋
 👋 Hi. I’m Elias
 
-👀 Interested in analysis of data (specially health service) and it's related projects with excel, power BI and SQL 
+👀 Interested in analysis of data and it's related projects with excel, power BI and SQL 
 
 🌱 Math is a language which has its unique words and rhythm
 
